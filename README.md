@@ -1,6 +1,10 @@
 # Aryan Sharma - Developer Portfolio
+<img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/536bf170-ad67-4412-951a-12e853baf587" />
+<img width="1885" height="903" alt="image" src="https://github.com/user-attachments/assets/0bca5d46-ecf9-442d-a611-93db8bd9b0f4" />
+<img width="1882" height="922" alt="image" src="https://github.com/user-attachments/assets/7a6b5b15-76c8-4d21-9bca-85dbf822255b" />
 
-![Portfolio Preview](./src/assets/hero.png) **(Note: Replace with a screenshot of your actual portfolio if you have one)*
+
+
 
 Welcome to the source code for my personal developer portfolio! This project is a modern, responsive, and animated single-page application built to showcase my engineering skills, projects, and professional identity. 
 
@@ -73,17 +77,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ---
 *Designed & Built by Aryan Sharma*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
